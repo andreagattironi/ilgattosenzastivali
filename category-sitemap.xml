@@ -8,6 +8,13 @@
     </url>
 
     <url>
+        <loc>https://ilgattosenzastivali.it/category/Il-blog/</loc>
+        <lastmod>2021-04-04T18:02:22.643Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://ilgattosenzastivali.it/category/Il-Libro/</loc>
         <lastmod>2021-03-09T14:54:21.578Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -57,14 +64,14 @@
     </url>
 
     <url>
-        <loc>https://ilgattosenzastivali.it/category/Diario-di-Emancipazione-Alimentare/</loc>
+        <loc>https://ilgattosenzastivali.it/category/Febbre-Software-Libero/</loc>
         <lastmod>2020-02-02T14:38:53.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://ilgattosenzastivali.it/category/Febbre-Software-Libero/</loc>
+        <loc>https://ilgattosenzastivali.it/category/Diario-di-Emancipazione-Alimentare/</loc>
         <lastmod>2020-02-02T14:38:53.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -78,21 +85,14 @@
     </url>
 
     <url>
-        <loc>https://ilgattosenzastivali.it/category/Il-blog/</loc>
-        <lastmod>2018-05-09T07:37:22.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://ilgattosenzastivali.it/category/Universita/</loc>
+        <loc>https://ilgattosenzastivali.it/category/Mercoledi-da-Peoni/</loc>
         <lastmod>2017-12-20T14:33:44.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://ilgattosenzastivali.it/category/Mercoledi-da-Peoni/</loc>
+        <loc>https://ilgattosenzastivali.it/category/Universita/</loc>
         <lastmod>2017-12-20T14:33:44.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>

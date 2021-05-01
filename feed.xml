@@ -6,7 +6,7 @@
   <link href="/feed.xml" rel="self"/>
   
   <link href="https://ilgattosenzastivali.it/"/>
-  <updated>2021-04-18T09:14:25.583Z</updated>
+  <updated>2021-05-01T14:49:04.047Z</updated>
   <id>https://ilgattosenzastivali.it/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>La solitudine dei numeri secondi</title>
+    <link href="https://ilgattosenzastivali.it/la-solitudine-dei-numeri-secondi/"/>
+    <id>https://ilgattosenzastivali.it/la-solitudine-dei-numeri-secondi/</id>
+    <published>2021-05-01T07:14:57.000Z</published>
+    <updated>2021-05-01T14:49:04.047Z</updated>
+    
+    <summary type="html">
+    
+      Cosa succede quando un autore sceglie un titolo a caso ed è costretto a essere onesto riguardo alla scrittura?
+    
+    </summary>
+    
+      <category term="Il Blog" scheme="https://ilgattosenzastivali.it/category/Il-Blog/"/>
+    
+    
+      <category term="libro" scheme="https://ilgattosenzastivali.it/tag/libro/"/>
+    
+      <category term="scrittura" scheme="https://ilgattosenzastivali.it/tag/scrittura/"/>
+    
+  </entry>
   
   <entry>
     <title>Confessioni di un editato</title>
@@ -203,11 +225,11 @@
     
       <category term="free" scheme="https://ilgattosenzastivali.it/tag/free/"/>
     
-      <category term="carattere libri" scheme="https://ilgattosenzastivali.it/tag/carattere-libri/"/>
-    
       <category term="font" scheme="https://ilgattosenzastivali.it/tag/font/"/>
     
       <category term="gratis" scheme="https://ilgattosenzastivali.it/tag/gratis/"/>
+    
+      <category term="carattere libri" scheme="https://ilgattosenzastivali.it/tag/carattere-libri/"/>
     
       <category term="autopubblicazione" scheme="https://ilgattosenzastivali.it/tag/autopubblicazione/"/>
     
@@ -259,13 +281,13 @@
       <category term="Il Libro" scheme="https://ilgattosenzastivali.it/category/Il-Libro/"/>
     
     
-      <category term="kindle" scheme="https://ilgattosenzastivali.it/tag/kindle/"/>
+      <category term="cartaceo" scheme="https://ilgattosenzastivali.it/tag/cartaceo/"/>
     
       <category term="libro" scheme="https://ilgattosenzastivali.it/tag/libro/"/>
     
-      <category term="cartaceo" scheme="https://ilgattosenzastivali.it/tag/cartaceo/"/>
-    
       <category term="ebook" scheme="https://ilgattosenzastivali.it/tag/ebook/"/>
+    
+      <category term="kindle" scheme="https://ilgattosenzastivali.it/tag/kindle/"/>
     
       <category term="avventura" scheme="https://ilgattosenzastivali.it/tag/avventura/"/>
     
@@ -409,11 +431,11 @@
     
       <category term="libro" scheme="https://ilgattosenzastivali.it/tag/libro/"/>
     
+      <category term="font" scheme="https://ilgattosenzastivali.it/tag/font/"/>
+    
       <category term="carattere libri" scheme="https://ilgattosenzastivali.it/tag/carattere-libri/"/>
     
       <category term="case editrici" scheme="https://ilgattosenzastivali.it/tag/case-editrici/"/>
-    
-      <category term="font" scheme="https://ilgattosenzastivali.it/tag/font/"/>
     
   </entry>
   
@@ -435,9 +457,9 @@
       <category term="Ricerche" scheme="https://ilgattosenzastivali.it/category/Febbre-Software-Libero/Ricerche/"/>
     
     
-      <category term="font" scheme="https://ilgattosenzastivali.it/tag/font/"/>
-    
       <category term="alternativa" scheme="https://ilgattosenzastivali.it/tag/alternativa/"/>
+    
+      <category term="font" scheme="https://ilgattosenzastivali.it/tag/font/"/>
     
       <category term="gratis" scheme="https://ilgattosenzastivali.it/tag/gratis/"/>
     
@@ -1012,9 +1034,9 @@
     
       <category term="valenciana" scheme="https://ilgattosenzastivali.it/tag/valenciana/"/>
     
-      <category term="sondaggio" scheme="https://ilgattosenzastivali.it/tag/sondaggio/"/>
-    
       <category term="poll" scheme="https://ilgattosenzastivali.it/tag/poll/"/>
+    
+      <category term="sondaggio" scheme="https://ilgattosenzastivali.it/tag/sondaggio/"/>
     
       <category term="suocera" scheme="https://ilgattosenzastivali.it/tag/suocera/"/>
     

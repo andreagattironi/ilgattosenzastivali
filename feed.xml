@@ -6,7 +6,7 @@
   <link href="/feed.xml" rel="self"/>
   
   <link href="https://ilgattosenzastivali.it/"/>
-  <updated>2021-05-01T14:49:04.047Z</updated>
+  <updated>2021-05-01T15:02:05.471Z</updated>
   <id>https://ilgattosenzastivali.it/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://ilgattosenzastivali.it/la-solitudine-dei-numeri-secondi/"/>
     <id>https://ilgattosenzastivali.it/la-solitudine-dei-numeri-secondi/</id>
     <published>2021-05-01T07:14:57.000Z</published>
-    <updated>2021-05-01T14:49:04.047Z</updated>
+    <updated>2021-05-01T15:02:05.471Z</updated>
     
     <summary type="html">
     
@@ -35,6 +35,8 @@
       <category term="libro" scheme="https://ilgattosenzastivali.it/tag/libro/"/>
     
       <category term="scrittura" scheme="https://ilgattosenzastivali.it/tag/scrittura/"/>
+    
+      <category term="voodoo child" scheme="https://ilgattosenzastivali.it/tag/voodoo-child/"/>
     
   </entry>
   
@@ -225,11 +227,11 @@
     
       <category term="free" scheme="https://ilgattosenzastivali.it/tag/free/"/>
     
-      <category term="carattere libri" scheme="https://ilgattosenzastivali.it/tag/carattere-libri/"/>
-    
       <category term="font" scheme="https://ilgattosenzastivali.it/tag/font/"/>
     
       <category term="gratis" scheme="https://ilgattosenzastivali.it/tag/gratis/"/>
+    
+      <category term="carattere libri" scheme="https://ilgattosenzastivali.it/tag/carattere-libri/"/>
     
       <category term="autopubblicazione" scheme="https://ilgattosenzastivali.it/tag/autopubblicazione/"/>
     
@@ -281,13 +283,13 @@
       <category term="Il Libro" scheme="https://ilgattosenzastivali.it/category/Il-Libro/"/>
     
     
-      <category term="kindle" scheme="https://ilgattosenzastivali.it/tag/kindle/"/>
+      <category term="cartaceo" scheme="https://ilgattosenzastivali.it/tag/cartaceo/"/>
     
       <category term="libro" scheme="https://ilgattosenzastivali.it/tag/libro/"/>
     
-      <category term="cartaceo" scheme="https://ilgattosenzastivali.it/tag/cartaceo/"/>
-    
       <category term="ebook" scheme="https://ilgattosenzastivali.it/tag/ebook/"/>
+    
+      <category term="kindle" scheme="https://ilgattosenzastivali.it/tag/kindle/"/>
     
       <category term="avventura" scheme="https://ilgattosenzastivali.it/tag/avventura/"/>
     
@@ -431,11 +433,11 @@
     
       <category term="libro" scheme="https://ilgattosenzastivali.it/tag/libro/"/>
     
+      <category term="font" scheme="https://ilgattosenzastivali.it/tag/font/"/>
+    
       <category term="carattere libri" scheme="https://ilgattosenzastivali.it/tag/carattere-libri/"/>
     
       <category term="case editrici" scheme="https://ilgattosenzastivali.it/tag/case-editrici/"/>
-    
-      <category term="font" scheme="https://ilgattosenzastivali.it/tag/font/"/>
     
   </entry>
   
@@ -457,9 +459,9 @@
       <category term="Ricerche" scheme="https://ilgattosenzastivali.it/category/Febbre-Software-Libero/Ricerche/"/>
     
     
-      <category term="font" scheme="https://ilgattosenzastivali.it/tag/font/"/>
-    
       <category term="alternativa" scheme="https://ilgattosenzastivali.it/tag/alternativa/"/>
+    
+      <category term="font" scheme="https://ilgattosenzastivali.it/tag/font/"/>
     
       <category term="gratis" scheme="https://ilgattosenzastivali.it/tag/gratis/"/>
     
@@ -999,9 +1001,9 @@
       <category term="Diario di Emancipazione Alimentare" scheme="https://ilgattosenzastivali.it/category/Diario-di-Emancipazione-Alimentare/"/>
     
     
-      <category term="paella" scheme="https://ilgattosenzastivali.it/tag/paella/"/>
-    
       <category term="ricetta" scheme="https://ilgattosenzastivali.it/tag/ricetta/"/>
+    
+      <category term="paella" scheme="https://ilgattosenzastivali.it/tag/paella/"/>
     
       <category term="cannonau" scheme="https://ilgattosenzastivali.it/tag/cannonau/"/>
     
@@ -1028,15 +1030,15 @@
       <category term="Diario di Emancipazione Alimentare" scheme="https://ilgattosenzastivali.it/category/Diario-di-Emancipazione-Alimentare/"/>
     
     
-      <category term="paella" scheme="https://ilgattosenzastivali.it/tag/paella/"/>
-    
       <category term="ricetta" scheme="https://ilgattosenzastivali.it/tag/ricetta/"/>
+    
+      <category term="paella" scheme="https://ilgattosenzastivali.it/tag/paella/"/>
     
       <category term="valenciana" scheme="https://ilgattosenzastivali.it/tag/valenciana/"/>
     
-      <category term="sondaggio" scheme="https://ilgattosenzastivali.it/tag/sondaggio/"/>
-    
       <category term="poll" scheme="https://ilgattosenzastivali.it/tag/poll/"/>
+    
+      <category term="sondaggio" scheme="https://ilgattosenzastivali.it/tag/sondaggio/"/>
     
       <category term="suocera" scheme="https://ilgattosenzastivali.it/tag/suocera/"/>
     
@@ -1193,13 +1195,13 @@
       <category term="Università" scheme="https://ilgattosenzastivali.it/category/Universita/"/>
     
     
+      <category term="gatto" scheme="https://ilgattosenzastivali.it/tag/gatto/"/>
+    
       <category term="commenti" scheme="https://ilgattosenzastivali.it/tag/commenti/"/>
     
       <category term="esami" scheme="https://ilgattosenzastivali.it/tag/esami/"/>
     
       <category term="filosofia" scheme="https://ilgattosenzastivali.it/tag/filosofia/"/>
-    
-      <category term="gatto" scheme="https://ilgattosenzastivali.it/tag/gatto/"/>
     
       <category term="stivali" scheme="https://ilgattosenzastivali.it/tag/stivali/"/>
     
@@ -1429,9 +1431,9 @@
     
       <category term="libro" scheme="https://ilgattosenzastivali.it/tag/libro/"/>
     
-      <category term="gatto" scheme="https://ilgattosenzastivali.it/tag/gatto/"/>
-    
       <category term="dragon naturally speaking" scheme="https://ilgattosenzastivali.it/tag/dragon-naturally-speaking/"/>
+    
+      <category term="gatto" scheme="https://ilgattosenzastivali.it/tag/gatto/"/>
     
       <category term="micio" scheme="https://ilgattosenzastivali.it/tag/micio/"/>
     

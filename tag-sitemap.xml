@@ -17,6 +17,13 @@
     </url>
 
     <url>
+        <loc>https://ilgattosenzastivali.it/tag/font/</loc>
+        <lastmod>2021-04-18T09:41:30.689Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://ilgattosenzastivali.it/tag/case-editrici/</loc>
         <lastmod>2021-04-18T09:41:30.689Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -25,13 +32,6 @@
 
     <url>
         <loc>https://ilgattosenzastivali.it/tag/carattere-libri/</loc>
-        <lastmod>2021-04-18T09:41:30.689Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://ilgattosenzastivali.it/tag/font/</loc>
         <lastmod>2021-04-18T09:41:30.689Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -241,6 +241,20 @@
     </url>
 
     <url>
+        <loc>https://ilgattosenzastivali.it/tag/sottilette/</loc>
+        <lastmod>2020-02-02T14:38:53.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://ilgattosenzastivali.it/tag/patate/</loc>
+        <lastmod>2020-02-02T14:38:53.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://ilgattosenzastivali.it/tag/brownie/</loc>
         <lastmod>2020-02-02T14:38:53.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -277,34 +291,6 @@
 
     <url>
         <loc>https://ilgattosenzastivali.it/tag/cioccolato/</loc>
-        <lastmod>2020-02-02T14:38:53.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://ilgattosenzastivali.it/tag/valenciana/</loc>
-        <lastmod>2020-02-02T14:38:53.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://ilgattosenzastivali.it/tag/cannonau/</loc>
-        <lastmod>2020-02-02T14:38:53.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://ilgattosenzastivali.it/tag/sottilette/</loc>
-        <lastmod>2020-02-02T14:38:53.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://ilgattosenzastivali.it/tag/patate/</loc>
         <lastmod>2020-02-02T14:38:53.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -353,6 +339,20 @@
     </url>
 
     <url>
+        <loc>https://ilgattosenzastivali.it/tag/valenciana/</loc>
+        <lastmod>2020-02-02T14:38:53.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://ilgattosenzastivali.it/tag/cannonau/</loc>
+        <lastmod>2020-02-02T14:38:53.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://ilgattosenzastivali.it/tag/polpette/</loc>
         <lastmod>2020-02-02T14:38:53.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -361,6 +361,20 @@
 
     <url>
         <loc>https://ilgattosenzastivali.it/tag/funghi/</loc>
+        <lastmod>2020-02-02T14:38:53.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://ilgattosenzastivali.it/tag/pesce/</loc>
+        <lastmod>2020-02-02T14:38:53.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://ilgattosenzastivali.it/tag/finto/</loc>
         <lastmod>2020-02-02T14:38:53.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -402,14 +416,21 @@
     </url>
 
     <url>
-        <loc>https://ilgattosenzastivali.it/tag/pesce/</loc>
+        <loc>https://ilgattosenzastivali.it/tag/riso/</loc>
         <lastmod>2020-02-02T14:38:53.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://ilgattosenzastivali.it/tag/finto/</loc>
+        <loc>https://ilgattosenzastivali.it/tag/insalata/</loc>
+        <lastmod>2020-02-02T14:38:53.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://ilgattosenzastivali.it/tag/freddo/</loc>
         <lastmod>2020-02-02T14:38:53.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -458,21 +479,7 @@
     </url>
 
     <url>
-        <loc>https://ilgattosenzastivali.it/tag/riso/</loc>
-        <lastmod>2020-02-02T14:38:53.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://ilgattosenzastivali.it/tag/insalata/</loc>
-        <lastmod>2020-02-02T14:38:53.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://ilgattosenzastivali.it/tag/freddo/</loc>
+        <loc>https://ilgattosenzastivali.it/tag/ricetta/</loc>
         <lastmod>2020-02-02T14:38:53.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -487,13 +494,6 @@
 
     <url>
         <loc>https://ilgattosenzastivali.it/tag/boicotta-sda/</loc>
-        <lastmod>2020-02-02T14:38:53.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://ilgattosenzastivali.it/tag/ricetta/</loc>
         <lastmod>2020-02-02T14:38:53.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -619,27 +619,6 @@
     </url>
 
     <url>
-        <loc>https://ilgattosenzastivali.it/tag/kobo/</loc>
-        <lastmod>2018-03-26T15:37:56.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://ilgattosenzastivali.it/tag/libero/</loc>
-        <lastmod>2018-03-26T15:37:56.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://ilgattosenzastivali.it/tag/febbre/</loc>
-        <lastmod>2018-03-26T15:37:56.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://ilgattosenzastivali.it/tag/tacchino/</loc>
         <lastmod>2018-03-26T15:37:56.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -668,7 +647,21 @@
     </url>
 
     <url>
-        <loc>https://ilgattosenzastivali.it/tag/kindle/</loc>
+        <loc>https://ilgattosenzastivali.it/tag/kobo/</loc>
+        <lastmod>2018-03-26T15:37:56.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://ilgattosenzastivali.it/tag/libero/</loc>
+        <lastmod>2018-03-26T15:37:56.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://ilgattosenzastivali.it/tag/febbre/</loc>
         <lastmod>2018-03-26T15:37:56.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -683,6 +676,13 @@
 
     <url>
         <loc>https://ilgattosenzastivali.it/tag/cartaceo/</loc>
+        <lastmod>2018-03-26T15:37:56.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://ilgattosenzastivali.it/tag/kindle/</loc>
         <lastmod>2018-03-26T15:37:56.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -738,13 +738,6 @@
     </url>
 
     <url>
-        <loc>https://ilgattosenzastivali.it/tag/rubrica/</loc>
-        <lastmod>2017-12-20T14:33:44.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://ilgattosenzastivali.it/tag/milanoize/</loc>
         <lastmod>2017-12-20T14:33:44.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -760,6 +753,13 @@
 
     <url>
         <loc>https://ilgattosenzastivali.it/tag/economica/</loc>
+        <lastmod>2017-12-20T14:33:44.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://ilgattosenzastivali.it/tag/rubrica/</loc>
         <lastmod>2017-12-20T14:33:44.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -795,27 +795,6 @@
 
     <url>
         <loc>https://ilgattosenzastivali.it/tag/laurea/</loc>
-        <lastmod>2017-12-20T14:33:44.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://ilgattosenzastivali.it/tag/trasloco/</loc>
-        <lastmod>2017-12-20T14:33:44.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://ilgattosenzastivali.it/tag/cinesi/</loc>
-        <lastmod>2017-12-20T14:33:44.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://ilgattosenzastivali.it/tag/spesa/</loc>
         <lastmod>2017-12-20T14:33:44.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -878,14 +857,21 @@
     </url>
 
     <url>
-        <loc>https://ilgattosenzastivali.it/tag/tabu/</loc>
+        <loc>https://ilgattosenzastivali.it/tag/trasloco/</loc>
         <lastmod>2017-12-20T14:33:44.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://ilgattosenzastivali.it/tag/sda/</loc>
+        <loc>https://ilgattosenzastivali.it/tag/cinesi/</loc>
+        <lastmod>2017-12-20T14:33:44.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://ilgattosenzastivali.it/tag/spesa/</loc>
         <lastmod>2017-12-20T14:33:44.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -899,6 +885,20 @@
     </url>
 
     <url>
+        <loc>https://ilgattosenzastivali.it/tag/carrefour/</loc>
+        <lastmod>2017-12-20T14:33:44.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://ilgattosenzastivali.it/tag/tabu/</loc>
+        <lastmod>2017-12-20T14:33:44.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://ilgattosenzastivali.it/tag/frigorifero/</loc>
         <lastmod>2017-12-20T14:33:44.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -906,7 +906,7 @@
     </url>
 
     <url>
-        <loc>https://ilgattosenzastivali.it/tag/carrefour/</loc>
+        <loc>https://ilgattosenzastivali.it/tag/sda/</loc>
         <lastmod>2017-12-20T14:33:44.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -927,14 +927,14 @@
     </url>
 
     <url>
-        <loc>https://ilgattosenzastivali.it/tag/sondaggio/</loc>
+        <loc>https://ilgattosenzastivali.it/tag/poll/</loc>
         <lastmod>2017-12-20T14:33:44.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://ilgattosenzastivali.it/tag/poll/</loc>
+        <loc>https://ilgattosenzastivali.it/tag/sondaggio/</loc>
         <lastmod>2017-12-20T14:33:44.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>

@@ -4,21 +4,21 @@
 
     <url>
         <loc>https://ilgattosenzastivali.it/tag/voodoo-child/</loc>
-        <lastmod>2021-05-02T11:24:15.404Z</lastmod>
+        <lastmod>2021-05-02T12:53:44.772Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://ilgattosenzastivali.it/tag/scrittura/</loc>
-        <lastmod>2021-05-02T11:24:15.404Z</lastmod>
+        <lastmod>2021-05-02T12:53:44.772Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://ilgattosenzastivali.it/tag/libro/</loc>
-        <lastmod>2021-05-02T11:24:15.404Z</lastmod>
+        <lastmod>2021-05-02T12:53:44.772Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -717,13 +717,6 @@
     </url>
 
     <url>
-        <loc>https://ilgattosenzastivali.it/tag/ritorno/</loc>
-        <lastmod>2017-12-20T14:33:44.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://ilgattosenzastivali.it/tag/gesu/</loc>
         <lastmod>2017-12-20T14:33:44.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -746,6 +739,13 @@
 
     <url>
         <loc>https://ilgattosenzastivali.it/tag/economica/</loc>
+        <lastmod>2017-12-20T14:33:44.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://ilgattosenzastivali.it/tag/ritorno/</loc>
         <lastmod>2017-12-20T14:33:44.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>

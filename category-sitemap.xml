@@ -8,8 +8,15 @@
     </url>
 
     <url>
+        <loc>https://ilgattosenzastivali.it/category/Il-Libro/</loc>
+        <lastmod>2021-05-16T15:04:31.385Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://ilgattosenzastivali.it/category/Il-Blog/</loc>
-        <lastmod>2021-05-04T11:13:25.836Z</lastmod>
+        <lastmod>2021-05-04T20:18:30.484Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -24,13 +31,6 @@
     <url>
         <loc>https://ilgattosenzastivali.it/category/Febbre-Software-Libero/</loc>
         <lastmod>2021-05-04T11:12:52.257Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://ilgattosenzastivali.it/category/Il-Libro/</loc>
-        <lastmod>2021-05-04T11:11:46.707Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

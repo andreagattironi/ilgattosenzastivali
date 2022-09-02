@@ -1,0 +1,119 @@
+
+
+/* Altervista Keith - Custom CSS */
+
+
+body, button, input, select, textarea,
+.widget-area h1, .widget-area h2, .widget-area h3, .widget-area h4, .widget-area h5, .widget-area h6, .category-title {
+	font-family: Arial, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: Arial, sans-serif;
+}
+
+.site-title {
+	font-family: Arial, sans-serif;
+}
+
+
+.site-title a:hover {
+	color: #648f48;
+}
+
+a, .widget a,
+.entry-footer .ei,
+.entry-footer a,
+.post-type-3 .cat-links a,
+.post-type-6 .cat-links a {
+	color: #648f48;
+}
+
+a:hover, .widget a:hover,
+.entry-title a:hover, body.av-dark .entry-title a:hover {
+	color: #4c6d37;
+}
+
+
+.av-model-site-minimal .widget-title {
+	border-bottom-color: #7cad5d;
+}
+
+.av-model-site-paged .post-type-5 .more-link a,
+.av-model-site-minimal .post-type-5 .more-link a {
+	border-color: #7cad5d;
+}
+
+
+.av-model-site-paged .widget-title,
+.av-model-site-boxed .post-type-5 .more-link a {
+	background-color: #7cad5d;
+}
+
+.post-type-featured .cat-links a {
+	background-color: #648f48;
+}
+
+.av-model-site-paged .widget {
+	background-color: #fafcf8;
+}
+
+button,
+input[type="button"],
+input[type="submit"],
+.comment-reply-link,
+.page-numbers:hover, 
+.page-numbers.current,
+.page-numbers.current:hover {
+	background-color: #648f48;
+}
+
+button:hover,
+input[type="button"]:hover,
+input[type="submit"]:hover,
+.comment-reply-link:hover {
+	background-color: #4c6d37;
+}
+
+/* Mobile Menu */
+
+.main-navigation.toggled > ul {
+	background-color: #7cad5d;
+}
+
+.main-navigation.toggled ul a {
+	color: #fff;
+	border-bottom: 1px solid rgba(255,255,255,.3);
+}
+
+.av-main-color-light .main-navigation.toggled ul a {
+	color: #222;
+	border-bottom: 1px solid rgba(0,0,0,.08);
+}
+
+@media screen and (min-width: 960px) {
+	/* Main Navigation */
+	.site-title-left .main-navigation ul li:hover > a, 
+	.site-title-left .main-navigation .current-menu-item > a,
+	.av-model-site-minimal .site-title-centered .main-navigation > ul > li:hover > a,
+	.av-model-site-minimal .site-title-centered .main-navigation .current-menu-item > a,
+	.av-model-site-minimal .site-title-centered .main-navigation ul ul a:hover {
+	color: #648f48;
+	}
+	.av-model-site-paged .site-title-centered .main-navigation,
+	.av-model-site-boxed .site-title-centered .main-navigation {
+	background-color: #7cad5d;
+	}
+	.av-model-site-paged .site-title-centered .main-navigation ul ul,
+	.av-model-site-boxed .site-title-centered .main-navigation ul ul,
+	.av-model-site-paged .site-title-centered .main-navigation > ul > li:hover > a,
+	.av-model-site-paged .site-title-centered .main-navigation > ul > li.current-menu-item > a,
+	.av-model-site-boxed .site-title-centered .main-navigation > ul > li:hover > a,
+	.av-model-site-boxed .site-title-centered .main-navigation > ul > li.current-menu-item > a {
+	background-color: #648f48;
+	}
+	.av-model-site-paged .site-title-centered .main-navigation ul ul li:hover > a,
+	.av-model-site-boxed .site-title-centered .main-navigation ul ul li:hover > a {
+	background-color: #4c6d37;
+	}
+}

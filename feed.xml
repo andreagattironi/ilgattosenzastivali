@@ -413,11 +413,11 @@
       <category term="Il Libro" scheme="https://ilgattosenzastivali.it/category/Il-Libro/"/>
     
     
+      <category term="kindle" scheme="https://ilgattosenzastivali.it/tag/kindle/"/>
+    
       <category term="libro" scheme="https://ilgattosenzastivali.it/tag/libro/"/>
     
       <category term="cartaceo" scheme="https://ilgattosenzastivali.it/tag/cartaceo/"/>
-    
-      <category term="kindle" scheme="https://ilgattosenzastivali.it/tag/kindle/"/>
     
       <category term="ebook" scheme="https://ilgattosenzastivali.it/tag/ebook/"/>
     
@@ -812,8 +812,6 @@
       <category term="Diario di Emancipazione Alimentare" scheme="https://ilgattosenzastivali.it/category/Diario-di-Emancipazione-Alimentare/"/>
     
     
-      <category term="ricetta" scheme="https://ilgattosenzastivali.it/tag/ricetta/"/>
-    
       <category term="cacca" scheme="https://ilgattosenzastivali.it/tag/cacca/"/>
     
       <category term="crepes" scheme="https://ilgattosenzastivali.it/tag/crepes/"/>
@@ -825,6 +823,8 @@
       <category term="piccioni" scheme="https://ilgattosenzastivali.it/tag/piccioni/"/>
     
       <category term="ragù" scheme="https://ilgattosenzastivali.it/tag/ragu/"/>
+    
+      <category term="ricetta" scheme="https://ilgattosenzastivali.it/tag/ricetta/"/>
     
   </entry>
   
@@ -1740,11 +1740,11 @@
       <category term="Diario di Emancipazione Alimentare" scheme="https://ilgattosenzastivali.it/category/Diario-di-Emancipazione-Alimentare/"/>
     
     
+      <category term="ricetta" scheme="https://ilgattosenzastivali.it/tag/ricetta/"/>
+    
       <category term="hamburger" scheme="https://ilgattosenzastivali.it/tag/hamburger/"/>
     
       <category term="mcdonald&#39;s" scheme="https://ilgattosenzastivali.it/tag/mcdonald-s/"/>
-    
-      <category term="ricetta" scheme="https://ilgattosenzastivali.it/tag/ricetta/"/>
     
   </entry>
   

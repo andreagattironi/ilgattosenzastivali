@@ -1,2 +1,6 @@
 User-Agent: *
-Disallow: /suggest/?*
+Disallow: 
+Sitemap: https://ilgattosenzastivali.it/sitemap.xml
+Sitemap: https://ilgattosenzastivali.it/post-sitemap.xml
+Sitemap: https://ilgattosenzastivali.it/page-sitemap.xml
+Sitemap: https://ilgattosenzastivali.it/tag-sitemap.xml

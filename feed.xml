@@ -413,9 +413,9 @@
       <category term="Il Libro" scheme="https://ilgattosenzastivali.it/category/Il-Libro/"/>
     
     
-      <category term="libro" scheme="https://ilgattosenzastivali.it/tag/libro/"/>
-    
       <category term="cartaceo" scheme="https://ilgattosenzastivali.it/tag/cartaceo/"/>
+    
+      <category term="libro" scheme="https://ilgattosenzastivali.it/tag/libro/"/>
     
       <category term="kindle" scheme="https://ilgattosenzastivali.it/tag/kindle/"/>
     
@@ -812,6 +812,8 @@
       <category term="Diario di Emancipazione Alimentare" scheme="https://ilgattosenzastivali.it/category/Diario-di-Emancipazione-Alimentare/"/>
     
     
+      <category term="ricetta" scheme="https://ilgattosenzastivali.it/tag/ricetta/"/>
+    
       <category term="cacca" scheme="https://ilgattosenzastivali.it/tag/cacca/"/>
     
       <category term="crepes" scheme="https://ilgattosenzastivali.it/tag/crepes/"/>
@@ -823,8 +825,6 @@
       <category term="piccioni" scheme="https://ilgattosenzastivali.it/tag/piccioni/"/>
     
       <category term="ragù" scheme="https://ilgattosenzastivali.it/tag/ragu/"/>
-    
-      <category term="ricetta" scheme="https://ilgattosenzastivali.it/tag/ricetta/"/>
     
   </entry>
   
@@ -1129,9 +1129,9 @@
       <category term="Diario di Emancipazione Alimentare" scheme="https://ilgattosenzastivali.it/category/Diario-di-Emancipazione-Alimentare/"/>
     
     
-      <category term="paella" scheme="https://ilgattosenzastivali.it/tag/paella/"/>
-    
       <category term="ricetta" scheme="https://ilgattosenzastivali.it/tag/ricetta/"/>
+    
+      <category term="paella" scheme="https://ilgattosenzastivali.it/tag/paella/"/>
     
       <category term="cannonau" scheme="https://ilgattosenzastivali.it/tag/cannonau/"/>
     
@@ -1158,13 +1158,13 @@
       <category term="Diario di Emancipazione Alimentare" scheme="https://ilgattosenzastivali.it/category/Diario-di-Emancipazione-Alimentare/"/>
     
     
-      <category term="paella" scheme="https://ilgattosenzastivali.it/tag/paella/"/>
-    
       <category term="ricetta" scheme="https://ilgattosenzastivali.it/tag/ricetta/"/>
     
-      <category term="valenciana" scheme="https://ilgattosenzastivali.it/tag/valenciana/"/>
+      <category term="paella" scheme="https://ilgattosenzastivali.it/tag/paella/"/>
     
       <category term="sondaggio" scheme="https://ilgattosenzastivali.it/tag/sondaggio/"/>
+    
+      <category term="valenciana" scheme="https://ilgattosenzastivali.it/tag/valenciana/"/>
     
       <category term="poll" scheme="https://ilgattosenzastivali.it/tag/poll/"/>
     
@@ -1740,11 +1740,11 @@
       <category term="Diario di Emancipazione Alimentare" scheme="https://ilgattosenzastivali.it/category/Diario-di-Emancipazione-Alimentare/"/>
     
     
-      <category term="ricetta" scheme="https://ilgattosenzastivali.it/tag/ricetta/"/>
-    
       <category term="hamburger" scheme="https://ilgattosenzastivali.it/tag/hamburger/"/>
     
       <category term="mcdonald&#39;s" scheme="https://ilgattosenzastivali.it/tag/mcdonald-s/"/>
+    
+      <category term="ricetta" scheme="https://ilgattosenzastivali.it/tag/ricetta/"/>
     
   </entry>
   

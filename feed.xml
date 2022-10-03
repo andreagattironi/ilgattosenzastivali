@@ -6,7 +6,7 @@
   <link href="/feed.xml" rel="self"/>
   
   <link href="https://ilgattosenzastivali.it/"/>
-  <updated>2022-10-03T06:54:03.974Z</updated>
+  <updated>2022-10-03T10:40:38.977Z</updated>
   <id>https://ilgattosenzastivali.it/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://ilgattosenzastivali.it/di-che-parlo-quando-parlo-di-scrivere/"/>
     <id>https://ilgattosenzastivali.it/di-che-parlo-quando-parlo-di-scrivere/</id>
     <published>2022-09-01T11:45:42.000Z</published>
-    <updated>2022-10-03T06:54:03.974Z</updated>
+    <updated>2022-10-03T10:40:38.977Z</updated>
     
     <summary type="html">
     
@@ -812,8 +812,6 @@
       <category term="Diario di Emancipazione Alimentare" scheme="https://ilgattosenzastivali.it/category/Diario-di-Emancipazione-Alimentare/"/>
     
     
-      <category term="ricetta" scheme="https://ilgattosenzastivali.it/tag/ricetta/"/>
-    
       <category term="cacca" scheme="https://ilgattosenzastivali.it/tag/cacca/"/>
     
       <category term="crepes" scheme="https://ilgattosenzastivali.it/tag/crepes/"/>
@@ -825,6 +823,8 @@
       <category term="piccioni" scheme="https://ilgattosenzastivali.it/tag/piccioni/"/>
     
       <category term="ragù" scheme="https://ilgattosenzastivali.it/tag/ragu/"/>
+    
+      <category term="ricetta" scheme="https://ilgattosenzastivali.it/tag/ricetta/"/>
     
   </entry>
   
@@ -1129,9 +1129,9 @@
       <category term="Diario di Emancipazione Alimentare" scheme="https://ilgattosenzastivali.it/category/Diario-di-Emancipazione-Alimentare/"/>
     
     
-      <category term="ricetta" scheme="https://ilgattosenzastivali.it/tag/ricetta/"/>
-    
       <category term="paella" scheme="https://ilgattosenzastivali.it/tag/paella/"/>
+    
+      <category term="ricetta" scheme="https://ilgattosenzastivali.it/tag/ricetta/"/>
     
       <category term="cannonau" scheme="https://ilgattosenzastivali.it/tag/cannonau/"/>
     
@@ -1158,9 +1158,9 @@
       <category term="Diario di Emancipazione Alimentare" scheme="https://ilgattosenzastivali.it/category/Diario-di-Emancipazione-Alimentare/"/>
     
     
-      <category term="ricetta" scheme="https://ilgattosenzastivali.it/tag/ricetta/"/>
-    
       <category term="paella" scheme="https://ilgattosenzastivali.it/tag/paella/"/>
+    
+      <category term="ricetta" scheme="https://ilgattosenzastivali.it/tag/ricetta/"/>
     
       <category term="valenciana" scheme="https://ilgattosenzastivali.it/tag/valenciana/"/>
     
@@ -1740,11 +1740,11 @@
       <category term="Diario di Emancipazione Alimentare" scheme="https://ilgattosenzastivali.it/category/Diario-di-Emancipazione-Alimentare/"/>
     
     
+      <category term="ricetta" scheme="https://ilgattosenzastivali.it/tag/ricetta/"/>
+    
       <category term="hamburger" scheme="https://ilgattosenzastivali.it/tag/hamburger/"/>
     
       <category term="mcdonald&#39;s" scheme="https://ilgattosenzastivali.it/tag/mcdonald-s/"/>
-    
-      <category term="ricetta" scheme="https://ilgattosenzastivali.it/tag/ricetta/"/>
     
   </entry>
   

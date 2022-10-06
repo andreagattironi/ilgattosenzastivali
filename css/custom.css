@@ -313,3 +313,11 @@ a > time {
 	display: block;
 	}
 } */
+
+img.feat {
+max-width: 270px;
+}
+
+img.sellfy {
+	max-width: 220px;
+	}
